@@ -1,9 +1,9 @@
 //
 //  RoomView.m
-//  SM-PublisherApp-Sucheepatra
+//  SM-HotelRoomSlides
 //
-//  Created by Majharul Huq on 11/28/14.
-//  Copyright (c) 2014 SmartMux. All rights reserved.
+//  Created by Huq Majharul on 1/13/16.
+//  Copyright © 2016 Huq Majharul. All rights reserved.
 //
 
 #import "RoomView.h"
